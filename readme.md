@@ -7,3 +7,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 
 ## Index
 1. [JS Drum Kit](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day01-Drum-Kit) - *Day 1*
+2. [JS Clock](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day02-Clock) - *Day 2*
