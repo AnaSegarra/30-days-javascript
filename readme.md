@@ -8,4 +8,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 ## Index
 1. [Drum Kit](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day01-Drum-Kit) - Day 1: *Sept. 28, 2019*
 2. [Clock](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day02-Clock) - Day 2: *Sept. 29, 2019*
-3.[CSS-Variables](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day03-CSS-Variables) - Day 3: *Oct. 1, 2019*
+3. [CSS-Variables](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day03-CSS-Variables) - Day 3: *Oct. 1, 2019*
