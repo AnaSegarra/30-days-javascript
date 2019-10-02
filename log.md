@@ -22,3 +22,11 @@
 **Recap:** I've learnt about CSS variables and how to declare them and manipulate them with JS. I considered using other types of event listeners, for example a combination of [change](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event) and [mousemove](https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event) events. Finally, I chose to use  an [input event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/input_event) since it also gave me the result I wanted to achieve and in less lines of code. 
 
 **Link:**[CSS-Variables](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day03-CSS-Variables)
+
+
+### Day 4: Array Cardio - Day 1
+*October 2, 2019*
+
+**Recap:** I've spent most of this challenge reading through Mozilla docs, so I could understand the application of the following built-in array methods: [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Filter), [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map), [Array.prototype.sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Sort) and [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce).
+
+**Link:**[Array Cardio Day 1](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day04-Array-Cardio-Day1)
