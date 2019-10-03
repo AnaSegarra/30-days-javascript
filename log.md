@@ -24,9 +24,17 @@
 **Link:**[CSS-Variables](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day03-CSS-Variables)
 
 
-### Day 4: Array Cardio - Day 1
+### Day 4: Array Cardio - Day 1 (JS Array Methods)
 *October 2, 2019*
 
 **Recap:** I've spent most of this challenge reading through Mozilla docs, so I could understand the application of the following built-in array methods: [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Filter), [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map), [Array.prototype.sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Sort) and [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce).
 
 **Link:**[Array Cardio Day 1](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day04-Array-Cardio-Day1)
+
+
+### Day 5: Flex Panel Gallery
+*October 3, 2019*
+
+**Recap:** I've expanded my knowledge on CSS manipulation with JavaScript and on the use CSS flexbox, which I hadn't utilised that much until now.
+
+**Link:**[Flex Panel Gallery](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day05-Flex-Panel-Gallery) 
