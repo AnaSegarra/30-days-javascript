@@ -11,3 +11,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 3. [CSS Variables](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day03-CSS-Variables) - Day 3: *Oct. 1, 2019*
 4. [Array Cardio Day 1](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day04-Array-Cardio-Day1) - Day 4: *Oct. 2, 2019*
 5. [Flex Panel Gallery](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day05-Flex-Panel-Gallery) - Day 5: *Oct. 3, 2019*
+6. [Type Ahead](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day06-Type-Ahead) - Day 6: *Oct. 5, 2019*

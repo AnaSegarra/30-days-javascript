@@ -38,3 +38,11 @@
 **Recap:** I've expanded my knowledge on CSS manipulation with JavaScript and on the use CSS flexbox, which I hadn't utilised that much until now.
 
 **Link:**[Flex Panel Gallery](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day05-Flex-Panel-Gallery) 
+
+
+### Day 6: Type Ahead
+*October 5, 2019*
+
+**Recap:** I've learnt about [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions), the [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp) constructor and the [fetch method](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
+
+**Link:**[Type Ahead](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day06-Type-Ahead)
