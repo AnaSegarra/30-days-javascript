@@ -1,5 +1,3 @@
-// ## Array Cardio Day 2
-
 const people = [
 	{ name: 'Wes', year: 1988 },
 	{ name: 'Kait', year: 1986 },
@@ -27,10 +25,7 @@ console.log(allAdults);
 const findID = comments.find((comment) => comment.id === 823423);
 console.log(findID);
 
-// Array.prototype.findIndex()
-// Find the comment with this ID
 // delete the comment with the ID of 823423
 const index = comments.findIndex((comment) => comment.id === 823423);
-
 comments.splice(index, 1);
 console.log(comments);
