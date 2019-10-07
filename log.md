@@ -46,3 +46,11 @@
 **Recap:** I've learnt about [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions), the [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp) constructor and the [fetch method](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
 
 **Link:**[Type Ahead](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day06-Type-Ahead)
+
+
+### Day 7: Array Cardio - Day 2 (JS Array Methods)
+*October 7, 2019*
+
+**Recap:** I've learnt about the following array methods: [Array.prototype.some()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some), [Array.prototype.evert()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every), [Array.prototype.find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find), [Array.prototype.findIndex()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex) and [Array.prototype.splice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice).
+
+**Link:**[Array Cardio Day 2](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day07-Array-Cardio-Day2)
