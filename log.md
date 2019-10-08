@@ -54,3 +54,11 @@
 **Recap:** I've learnt about the following array methods: [Array.prototype.some()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some), [Array.prototype.evert()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every), [Array.prototype.find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find), [Array.prototype.findIndex()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex) and [Array.prototype.splice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice).
 
 **Link:**[Array Cardio Day 2](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day07-Array-Cardio-Day2)
+
+
+### Day 8: Drawing on HTML5 Canvas
+*October 8, 2019*
+
+**Recap:** I've learnt a bit about HTML5 Canvas and how to draw on it using the mouse.
+
+**Link:** [HTML5 Canvas](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day08-HTML5-Canvas)

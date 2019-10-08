@@ -13,3 +13,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 5. [Flex Panel Gallery](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day05-Flex-Panel-Gallery) - Day 5: *Oct. 3, 2019*
 6. [Type Ahead](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day06-Type-Ahead) - Day 6: *Oct. 5, 2019*
 7. [Array Cardio Day 2](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day07-Array-Cardio-Day2) - Day 7: *Oct. 7, 2019*
+8. [Drawing on HTML5 Canvas](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day08-HTML5-Canvas) - Day 8: *Oct. 8, 2019*
