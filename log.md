@@ -62,3 +62,11 @@
 **Recap:** I've learnt a bit about HTML5 Canvas and how to draw on it using the mouse.
 
 **Link:** [HTML5 Canvas](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day08-HTML5-Canvas)
+
+
+### Day 9: Dev Tools & Tricks
+*October 9, 2019*
+
+**Recap:** I've learnt about some console methods that I didn't know of until now.
+
+**Link:** [Dev Tools & Tricks](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day09-Dev-Tools-Tricks)
