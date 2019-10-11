@@ -15,3 +15,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 7. [Array Cardio Day 2](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day07-Array-Cardio-Day2) - Day 7: *Oct. 7, 2019*
 8. [Drawing on HTML5 Canvas](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day08-HTML5-Canvas) - Day 8: *Oct. 8, 2019*
 9. [Dev Tools & Tricks](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day09-Dev-Tools-Tricks) - Day 9: *Oct. 9, 2019* 
+10. [Hold Shift & Check Checkboxes](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day10-Hold-Shift%26Check-Checkboxes) - Day 10: *Oct. 11, 2019*

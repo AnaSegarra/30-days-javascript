@@ -70,3 +70,11 @@
 **Recap:** I've learnt about some console methods that I didn't know of until now.
 
 **Link:** [Dev Tools & Tricks](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day09-Dev-Tools-Tricks)
+
+
+### Day 10: Hold Shift & Check Checkboxes
+*October 11, 2019*
+
+**Recap:** This one has been the hardest challenge so far. I've mostly followed this written [guide](https://github.com/nitishdayal/JavaScript30) to get through this challenge. I've learnt about the [bind() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind).
+
+**Link:** [Hold Shift & Check Checkboxes](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day10-Hold-Shift%26Check-Checkboxes)
