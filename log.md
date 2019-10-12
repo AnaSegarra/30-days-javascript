@@ -27,7 +27,7 @@
 ### Day 4: Array Cardio - Day 1 (JS Array Methods)
 *October 2, 2019*
 
-**Recap:** I've spent most of this challenge reading through Mozilla docs, so I could understand the application of the following built-in array methods: [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Filter), [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map), [Array.prototype.sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Sort) and [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce).
+**Recap:** I've spent most of this challenge reading through Mozilla docs, so I could understand the application of the following built-in array methods: [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Filter), [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map), [Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Sort) and [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce).
 
 **Link:**[Array Cardio Day 1](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day04-Array-Cardio-Day1)
 
@@ -75,6 +75,14 @@
 ### Day 10: Hold Shift & Check Checkboxes
 *October 11, 2019*
 
-**Recap:** This one has been the hardest challenge so far. I've mostly followed this written [guide](https://github.com/nitishdayal/JavaScript30) to get through this challenge. I've learnt about the [bind() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind).
+**Recap:** It's been the hardest challenge so far. I've mostly followed this written [guide](https://github.com/nitishdayal/JavaScript30/tree/master/exercises/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes) by Nitish Dayal to get through this challenge. I've learnt about the [bind() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind).
 
 **Link:** [Hold Shift & Check Checkboxes](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day10-Hold-Shift%26Check-Checkboxes)
+
+
+### Day 11: Custom Video Player
+*October 12, 2019*
+
+**Recap:** I've learnt about some methods and properties of the HTML video element. 
+
+**Link:**[Custom Video Player](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day11-Custom-Video-Player)
