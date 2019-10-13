@@ -83,6 +83,14 @@
 ### Day 11: Custom Video Player
 *October 12, 2019*
 
-**Recap:** I've learnt about some methods and properties of the HTML video element. 
+**Recap:** I've learnt about some methods and properties of the HTML video element. I've decided to include a keydown event listener that allows the user to play/pause the video when hitting the spacebar and skip it or rewind it when hitting the left or right arrows, respectively.
 
-**Link:**[Custom Video Player](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day11-Custom-Video-Player)
+**Link:** [Custom Video Player](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day11-Custom-Video-Player)
+
+
+### Day 12: Key Sequence Detection
+*October 13, 2019*
+
+**Recap:** I've used again some array methods, such as splice() and [join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join), and I'm starting to feel comfortable with DOM manipulation and event listeners. 
+
+**Link:** [Key Squence Detection](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day12-Key-Sequence-Detection)
