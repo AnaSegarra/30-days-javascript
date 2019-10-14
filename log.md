@@ -83,7 +83,7 @@
 ### Day 11: Custom Video Player
 *October 12, 2019*
 
-**Recap:** I've learnt about some methods and properties of the HTML video element. I've decided to include a keydown event listener that allows the user to play/pause the video when hitting the spacebar and skip it or rewind it when hitting the left or right arrows, respectively.
+**Recap:** I've learnt about some methods and properties of the HTML video element. I've decided to include a keydown event listener that allows the user to play/pause the video when hitting the spacebar and skip it or rewind it when hitting the left or right arrow, respectively.
 
 **Link:** [Custom Video Player](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day11-Custom-Video-Player)
 
@@ -93,4 +93,12 @@
 
 **Recap:** I've used again some array methods, such as splice() and [join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join), and I'm starting to feel comfortable with DOM manipulation and event listeners. 
 
-**Link:** [Key Squence Detection](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day12-Key-Sequence-Detection)
+**Link:** [Key Sequence Detection](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day12-Key-Sequence-Detection)
+
+
+### Day 13: Slide in on Scroll
+*October 14, 2019*
+
+**Recap:** I've used the 'scroll' event type and I've learnt about the [debounce function](https://levelup.gitconnected.com/debounce-in-javascript-improve-your-applications-performance-5b01855e086), which was already provided in the source code. 
+
+**Link:**  [Slide in on Scroll](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day13-Slide-in-on-Scroll)
