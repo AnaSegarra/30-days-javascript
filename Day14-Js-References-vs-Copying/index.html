@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>JS Reference VS Copy</title>
+  </head>
+
+  <body>
+    <script>
+      // numbers and strings
+      /*
+      let age = 25;
+      let age2 = 28;
+      console.log(age, age2);
+      age2 = 58;
+      console.log(age, age2);
+
+      let name = 'Ana';
+      let name2 = name;
+      console.log(name, name2);
+      name = 'Gema';
+      console.log(name, name2);
+      */
+
+      // arrays
+      /*
+      const players = [ 'Wes', 'Sarah', 'Ryan', 'Poppy' ];
+      const team = players; //array reference
+      console.log(players, team);
+      team[3] = 'John'; //edits the original array too
+      console.log(players, team);
+
+      const team2 = players.slice(); //makes a copy of the original array
+      console.log(players, team2);
+      team2[3] = 'John';
+      console.log(players, team2);
+
+      const team3 = [].concat(players); //makes a copy by concatenation
+
+      const team4 = [ ...players ]; //makes a copy using the spread operator
+
+      const team5 = Array.from(players); //create array from the original
+      console.log(team5);
+      */
+
+      // Objects
+      /*
+      const person = {
+        name: 'Ana',
+        age: 25
+      };
+
+      const me = person;
+      console.log(person, me);
+      me.lastName = 'Segarra'; //modifies the original object
+      console.log(person);
+
+      const me2 = Object.assign({}, person, { lastName: 'Segarra' });
+      me2.age = 26;
+      console.log(person, me2);
+      */
+
+      // !important it only copies the first level (both for arrays and objects)
+      /*
+      const Ana = {
+        name: 'Ana',
+        age: 25,
+        social: {
+          twitter: '@a_segarra',
+          github: '@AnaSegarra'
+        }
+      };
+
+      const me = Object.assign({}, Ana);
+      me.lastName = 'Segarra';
+
+      me.social.twitter = '@AnaSegarra'; //edits both objects
+      console.log(Ana, me);
+      */
+
+    </script>
+  </body>
+
+</html>
