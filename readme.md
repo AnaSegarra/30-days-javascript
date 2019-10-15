@@ -19,3 +19,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 11. [Custom Video Player](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day11-Custom-Video-Player) - Day 11: *Oct. 12, 2019*
 12. [Key Sequence Detection](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day12-Key-Sequence-Detection) - Day 12: *Oct. 13, 2019*
 13. [Slide in on Scroll](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day13-Slide-in-on-Scroll) - Day 13: *Oct. 14, 2019*
+14. [JS References vs Copying](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day14-Js-References-vs-Copying) - Day 14: *Oct. 15, 2019*

@@ -102,3 +102,11 @@
 **Recap:** I've used the 'scroll' event type and I've learnt about the [debounce function](https://levelup.gitconnected.com/debounce-in-javascript-improve-your-applications-performance-5b01855e086), which was already provided in the source code. 
 
 **Link:**  [Slide in on Scroll](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day13-Slide-in-on-Scroll)
+
+
+### Day 14: 
+*October 15, 2019*
+
+**Recap:** I've gone over some basic concepts of JS and I've learnt the difference between manipulating data by reference or by value. 
+
+**Link:** [JS References vs Copying](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day14-Js-References-vs-Copying) 
