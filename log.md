@@ -110,3 +110,11 @@
 **Recap:** I've gone over some basic concepts of JS and I've learnt the difference between manipulating data by reference or by value. 
 
 **Link:** [JS References vs Copying](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day14-Js-References-vs-Copying) 
+
+
+### Day 15: 
+*October 16, 2019*
+
+**Recap:** I've learnt about how local storage and event delegation work. Also, I'm already halfway through the JS30 challenge! 🎉
+
+**Link:** [Local Storage](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day15-LocalStorage)
