@@ -104,7 +104,7 @@
 **Link:**  [Slide in on Scroll](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day13-Slide-in-on-Scroll)
 
 
-### Day 14: 
+### Day 14: JS References vs Copying
 *October 15, 2019*
 
 **Recap:** I've gone over some basic concepts of JS and I've learnt the difference between manipulating data by reference or by value. 
@@ -112,9 +112,17 @@
 **Link:** [JS References vs Copying](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day14-Js-References-vs-Copying) 
 
 
-### Day 15: 
+### Day 15: Local Storage
 *October 16, 2019*
 
 **Recap:** I've learnt about how local storage and event delegation work. Also, I'm already halfway through the JS30 challenge! 🎉
 
 **Link:** [Local Storage](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day15-LocalStorage)
+
+
+### Day 16: Mouse Move Shadow
+*October 18, 2019*
+
+**Recap:** I've learnt to manipulate the text-shadow property and to get the cursor's position when having nested elements. 
+
+**Link:** [Mouse Move Shadow](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day16-Mouse-Move-Shadow)

@@ -21,4 +21,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 13. [Slide in on Scroll](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day13-Slide-in-on-Scroll) - Day 13: *Oct. 14, 2019*
 14. [JS References vs Copying](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day14-Js-References-vs-Copying) - Day 14: *Oct. 15, 2019*
 15. [Local Storage](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day15-LocalStorage) - Day 15: *Oct. 16, 2019*
-
+16. [Mouse Move Shadow](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day16-Mouse-Move-Shadow) - Day 16: *Oct. 18, 2019*
