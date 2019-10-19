@@ -126,3 +126,11 @@
 **Recap:** I've learnt to manipulate the text-shadow property and to get the cursor's position when having nested elements. 
 
 **Link:** [Mouse Move Shadow](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day16-Mouse-Move-Shadow)
+
+
+### Day 17: Sort Without Articles
+*October 19, 2019*
+
+**Recap:** I've learnt to sort an array excluding a specific pattern of each item and then include that sorted array in an HTML element. In order to get this done, I've used the RegExp constructor, the [replace method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace) and the sort method.
+
+**Link:**  [Sort Without Articles](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day17-Sort-Without-Articles)
