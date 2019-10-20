@@ -23,3 +23,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 15. [Local Storage](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day15-LocalStorage) - Day 15: *Oct. 16, 2019*
 16. [Mouse Move Shadow](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day16-Mouse-Move-Shadow) - Day 16: *Oct. 18, 2019*
 17. [Sort Without Articles](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day17-Sort-Without-Articles) - Day 17: *Oct. 19, 2019*
+18. [Adding Up Times](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day18-Adding-Up-Times) - Day 18: *Oct. 20, 2019*

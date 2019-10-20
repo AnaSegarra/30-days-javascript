@@ -134,3 +134,11 @@
 **Recap:** I've learnt to sort an array excluding a specific pattern of each item and then include that sorted array in an HTML element. In order to get this done, I've used the RegExp constructor, the [replace method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace) and the sort method.
 
 **Link:**  [Sort Without Articles](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day17-Sort-Without-Articles)
+
+
+### Day 18: Adding Up Times with Reduce
+*October 20, 2019*
+
+**Recap:** I've used a couple of built-in array methods and some Math methods. I still find a bit confusing the reduce() method, but I think I'll end up getting the hang of it. 
+
+**Link:** [Adding Up Times](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day18-Adding-Up-Times)
