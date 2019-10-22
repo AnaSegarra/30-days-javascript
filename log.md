@@ -142,3 +142,11 @@
 **Recap:** I've used a couple of built-in array methods and some Math methods. I still find a bit confusing the reduce() method, but I think I'll end up getting the hang of it. 
 
 **Link:** [Adding Up Times](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day18-Adding-Up-Times)
+
+
+### Day 19: Webcam Fun
+*October 22, 2019*
+
+**Recap:** I've learnt a bit about the [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator) Web API and its property [mediaDevices](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/mediaDevices) and how it allows the program to get access to the user's webcam. 
+
+**Link:** [Webcam Fun](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day19-Webcam-Fun) 
