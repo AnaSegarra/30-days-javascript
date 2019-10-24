@@ -25,3 +25,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 17. [Sort Without Articles](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day17-Sort-Without-Articles) - Day 17: *Oct. 19, 2019*
 18. [Adding Up Times](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day18-Adding-Up-Times) - Day 18: *Oct. 20, 2019*
 19. [Webcam Fun](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day19-Webcam-Fun) - Day 19: *Oct. 22, 2019*
+20. [Speech Detection](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day20-Speech-Detection) - Day 20: *Oct. 24, 2019*

@@ -150,3 +150,11 @@
 **Recap:** I've learnt a bit about the [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator) Web API and its property [mediaDevices](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/mediaDevices) and how it allows the program to get access to the user's webcam. 
 
 **Link:** [Webcam Fun](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day19-Webcam-Fun) 
+
+
+### Day 20: Speech Detection
+*October 24, 2019*
+
+**Recap:** This challenge was similar to the previous one, but using the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) and its interface [SpeechRecognition](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition).
+
+**Link**: [Speech Detection](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day20-Speech-Detection)
