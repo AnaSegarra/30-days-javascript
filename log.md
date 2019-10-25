@@ -158,3 +158,11 @@
 **Recap:** This challenge was similar to the previous one, but using the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) and its interface [SpeechRecognition](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition).
 
 **Link**: [Speech Detection](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day20-Speech-Detection)
+
+
+### Day 21: Geolocation
+*October 25, 2019*
+
+**Recap:** I've learnt about the [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator) Web API and its property [geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/geolocation), that gives the web access to the device's location. I've used the xCode Simulator to test if the page was working properly, as suggested in [Wes Bos's video](https://www.youtube.com/watch?v=X7Cbtra0C6I&t=).
+
+**Link:** [Geolocation](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day21-Geolocation)

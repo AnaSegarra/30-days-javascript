@@ -26,3 +26,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 18. [Adding Up Times](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day18-Adding-Up-Times) - Day 18: *Oct. 20, 2019*
 19. [Webcam Fun](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day19-Webcam-Fun) - Day 19: *Oct. 22, 2019*
 20. [Speech Detection](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day20-Speech-Detection) - Day 20: *Oct. 24, 2019*
+21. [Geolocation](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day21-Geolocation) - Day 21: *Oct. 25, 2019*
