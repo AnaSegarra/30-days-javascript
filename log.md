@@ -166,3 +166,11 @@
 **Recap:** I've learnt about the [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator) Web API and its property [geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/geolocation), that gives the web access to the device's location. I've used the xCode Simulator to test if the page was working properly, as suggested in [Wes Bos's video](https://www.youtube.com/watch?v=X7Cbtra0C6I&t=).
 
 **Link:** [Geolocation](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day21-Geolocation)
+
+
+### Day 22: Follow Along Links
+*October 28, 2019*
+
+**Recap:** I've learnt the basics about the [.getBoundingClientRect](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect) method and how to use it to apply some styles to a certain element. 
+
+**Link:** [Follow Along Links](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day22-Follow-Along-Links)
