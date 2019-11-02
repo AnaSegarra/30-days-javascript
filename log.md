@@ -174,3 +174,11 @@
 **Recap:** I've learnt the basics about the [.getBoundingClientRect](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect) method and how to use it to apply some styles to a certain element. 
 
 **Link:** [Follow Along Links](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day22-Follow-Along-Links)
+
+
+### Day 23: Speech Synthesis
+*November 2, 2019*
+
+**Recap:** I've used once again the Web Speech API, but this time I've learnt about its [Speech Synthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) interface. I'm finally getting the hang of some array methods that I really struggled with at first, such as map().
+
+**Link:** [Speech Synthesis](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day23-Speech-Synthesis)

@@ -28,3 +28,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 20. [Speech Detection](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day20-Speech-Detection) - Day 20: *Oct. 24, 2019*
 21. [Geolocation](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day21-Geolocation) - Day 21: *Oct. 25, 2019*
 22. [Follow Along Links](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day22-Follow-Along-Links) - Day 22: *Oct. 28, 2019*
+23. [Speech Synthesis](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day23-Speech-Synthesis) - Day 23: *Nov. 2, 2019*
