@@ -29,3 +29,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 21. [Geolocation](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day21-Geolocation) - Day 21: *Oct. 25, 2019*
 22. [Follow Along Links](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day22-Follow-Along-Links) - Day 22: *Oct. 28, 2019*
 23. [Speech Synthesis](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day23-Speech-Synthesis) - Day 23: *Nov. 2, 2019*
+24. [Sticky Nav](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day24-Sticky-Nav) - Day 24: *Nov. 3, 2019*

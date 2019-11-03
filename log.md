@@ -182,3 +182,11 @@
 **Recap:** I've used once again the Web Speech API, but this time I've learnt about its [Speech Synthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) interface. I'm finally getting the hang of some array methods that I really struggled with at first, such as map().
 
 **Link:** [Speech Synthesis](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day23-Speech-Synthesis)
+
+
+### Day 24: Sticky Nav
+*November 3, 2019*
+
+**Recap:** I've learnt how to implement the sticky position to a nav element just listening to the user's scroll, instead of having to hard code a top value in css.
+
+**Link:** [Sticky Nav](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day24-Sticky-Nav)
