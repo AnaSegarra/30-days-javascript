@@ -30,3 +30,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 22. [Follow Along Links](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day22-Follow-Along-Links) - Day 22: *Oct. 28, 2019*
 23. [Speech Synthesis](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day23-Speech-Synthesis) - Day 23: *Nov. 2, 2019*
 24. [Sticky Nav](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day24-Sticky-Nav) - Day 24: *Nov. 3, 2019*
+25. [Event Capture](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day25-Event-Capture) - Day 25: *Nov. 4, 2019*

@@ -190,3 +190,11 @@
 **Recap:** I've learnt how to implement the sticky position to a nav element just listening to the user's scroll, instead of having to hard code a top value in css.
 
 **Link:** [Sticky Nav](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day24-Sticky-Nav)
+
+
+### Day 25: Event Capture
+*November 4, 2019*
+
+**Recap:** I've learnt about some concepts related to event listeners, such as bubbling and capturing, and how to stop bubbling from happening. I've read about in [The Modern JS Tutorial](https://javascript.info/bubbling-and-capturing).
+
+**Link:** [Event Capture](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day25-Event-Capture)
