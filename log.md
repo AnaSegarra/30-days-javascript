@@ -163,7 +163,7 @@
 ### Day 21: Geolocation
 *October 25, 2019*
 
-**Recap:** I've learnt about the [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator) Web API and its property [geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/geolocation), that gives the web access to the device's location. I've used the xCode Simulator to test if the page was working properly, as suggested in [Wes Bos's video](https://www.youtube.com/watch?v=X7Cbtra0C6I&t=).
+**Recap:** I've learnt about the [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator) Web API and its property [geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/geolocation), that gives the web access to the device's location. I've used the xCode Simulator to test if the page was working properly, as suggested in [Wes Bos' video](https://www.youtube.com/watch?v=X7Cbtra0C6I&t=).
 
 **Link:** [Geolocation](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day21-Geolocation)
 
@@ -171,7 +171,7 @@
 ### Day 22: Follow Along Links
 *October 28, 2019*
 
-**Recap:** I've learnt the basics about the [.getBoundingClientRect](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect) method and how to use it to apply some styles to a certain element. 
+**Recap:** I've learnt the basics about the [getBoundingClientRect](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect) method and how to use it to apply some styles to a certain element. 
 
 **Link:** [Follow Along Links](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day22-Follow-Along-Links)
 
@@ -198,3 +198,11 @@
 **Recap:** I've learnt about some concepts related to event listeners, such as bubbling and capturing, and how to stop bubbling from happening. I've read about in [The Modern JS Tutorial](https://javascript.info/bubbling-and-capturing).
 
 **Link:** [Event Capture](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day25-Event-Capture)
+
+
+### Day 26: Follow Along Nav
+*November 5, 2019*
+
+**Recap:** Similar challenge to the one on [day 22](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day22-Follow-Along-Links), using the getBoundingClientRect method and applying it to get a background that follows the dropdown navigation.
+
+**Link:** [Follow Along Nav](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day26-Follow-Along-Nav)
