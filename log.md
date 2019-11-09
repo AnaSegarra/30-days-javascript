@@ -206,3 +206,11 @@
 **Recap:** Similar challenge to the one on [day 22](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day22-Follow-Along-Links), using the getBoundingClientRect method and applying it to get a background that follows the dropdown navigation.
 
 **Link:** [Follow Along Nav](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day26-Follow-Along-Nav)
+
+
+### Day 27: Click & Drag
+*November 9, 2019*
+
+**Recap:** This challenge was all about mouse event listeners, like [mousedown](https://developer.mozilla.org/en-US/docs/Web/API/Element/mousedown_event), [mouseleave](https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseleave_event), [mouseup](https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseup_event) and [mousemove](https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event) events.
+
+**Link:** [Click & Drag](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day27-Click-%26-Drag)
