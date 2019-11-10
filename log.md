@@ -214,3 +214,11 @@
 **Recap:** This challenge was all about mouse event listeners, like [mousedown](https://developer.mozilla.org/en-US/docs/Web/API/Element/mousedown_event), [mouseleave](https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseleave_event), [mouseup](https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseup_event) and [mousemove](https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event) events.
 
 **Link:** [Click & Drag](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day27-Click-%26-Drag)
+
+
+### Day 28: Video Speed Controller
+*November 10, 2019*
+
+**Recap:** Quick challenge on how to get to work a video speed controller, so I've practised a bit more on getting the coordinates of the mouse and the size of a certain div.
+
+**Link:** [Video Speed Controller](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day28-Video-Speed-Controller)
