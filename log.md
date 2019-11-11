@@ -203,7 +203,7 @@
 ### Day 26: Follow Along Nav
 *November 5, 2019*
 
-**Recap:** Similar challenge to the one on [day 22](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day22-Follow-Along-Links), using the getBoundingClientRect method and applying it to get a background that follows the dropdown navigation.
+**Recap:** Similar challenge to the one on [day 22](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day22-Follow-Along-Links), using the getBoundingClientRect method to get a background that follows the dropdown navigation.
 
 **Link:** [Follow Along Nav](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day26-Follow-Along-Nav)
 
@@ -222,3 +222,11 @@
 **Recap:** Quick challenge on how to get to work a video speed controller, so I've practised a bit more on getting the coordinates of the mouse and the size of a certain div.
 
 **Link:** [Video Speed Controller](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day28-Video-Speed-Controller)
+
+
+### Day 29: Countdown Timer
+*November 11, 2019*
+
+**Recap:** I've used a couple of built-in methods of the Date object and I got to practise again with some DOM manipulation. I kept the 24-hour clock system as I like it better than the 12-hour clock (as Wes Bos uses in his [video](https://www.youtube.com/watch?v=LAaf7-WuJJQ&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=29)). 
+
+**Link:** [Countdown Timer](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day29-Countdown-Timer)
