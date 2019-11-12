@@ -230,3 +230,11 @@
 **Recap:** I've used a couple of built-in methods of the Date object and I got to practise again with some DOM manipulation. I kept the 24-hour clock system as I like it better than the 12-hour clock (as Wes Bos uses in his [video](https://www.youtube.com/watch?v=LAaf7-WuJJQ&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=29)). 
 
 **Link:** [Countdown Timer](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day29-Countdown-Timer)
+
+
+### Day 30: Whack A Mole
+*November 12, 2019*
+
+**Recap:** Fun challenge working with DOM manipulation, getting random numbers with Math.random() and creating different functions. Last challenge! 🎉 
+
+**Link:** [Whack A Mole](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day30-Whack-A-Mole)

@@ -35,4 +35,4 @@ I'll be uploading my projects for the next few days and updating this [diary](ht
 27. [Click & Drag](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day27-Click-%26-Drag) - Day 27: *Nov. 9, 2019*
 28. [Video Speed Controller](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day28-Video-Speed-Controller) - Day 28: *Nov. 10, 2019*
 29. [Countdown Timer](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day29-Countdown-Timer) - Day 29: *Nov. 11, 2019*
-30. Whack a Mole
+30. [Whack a Mole](https://github.com/AnaSegarra/30-days-javascript/tree/master/Day30-Whack-A-Mole) - Day 30: *Nov. 12, 2019*
